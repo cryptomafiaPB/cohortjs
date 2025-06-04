@@ -1,0 +1,15 @@
+{
+  "name": "cohortjs",
+  "version": "1.0.0",
+  "description": "minimalist nodejs routing framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "pranav",
+  "license": "ISC"
+}
