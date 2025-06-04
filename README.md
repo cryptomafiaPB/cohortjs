@@ -55,7 +55,7 @@ The goal is to keep things simple, clear, and easy to extend. Whether you want t
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-username>/cohortjs.git
+   git clone https://github.com/cryptomafiaPB/cohortjs.git
    cd cohortjs
    ```
 
@@ -270,6 +270,16 @@ We welcome contributions! To help make cohortJS better:
 We’ll review your PR as soon as possible. Thank you for helping improve cohortJS!
 
 ---
+
+## Features to Add
+
+Following features contributions are welcome:
+
+- [ ] Add support for **JSON body parsing**.
+- [ ] Add support for **PUT** and **DELETE** requests.
+- [ ] Add support for **middleware**.
+- [ ] Add support for **query parameters**.
+- [ ] Add support for **cookies**.
 
 ## License
 
